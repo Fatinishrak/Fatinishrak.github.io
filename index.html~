@@ -44,7 +44,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">AMIGO!</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Cyber</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -79,7 +79,7 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Cyberspace</div>
+                <div class="intro-lead-in" style="color:#FF0000;">Bangladesh Cyberspace</div>
                 <div class="intro-heading">Counter-intelligence and counter-terrorism</div>
                 <a href="#services" class="page-scroll btn btn-xl">N3Xus</a>
             </div>
