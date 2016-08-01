@@ -9,8 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Dedicated to hostage innocents people who died  Holey Artisan Bakery
-</title>
+    <title>বাংলার সাইবারস্পেস রাখিব শত্রু মুক্ত</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -44,7 +43,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Cyber</a>
+                <a class="navbar-brand page-scroll" href="#page-top">বাংলার সাইবারস্পেস</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -54,19 +53,19 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">Services</a>
+                        <a class="page-scroll" href="#services"style="color:#0066FF;">Services</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Game List</a>
+                        <a class="page-scroll" href="#portfolio"style="color:black;">Game List</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
+                        <a class="page-scroll" href="#about"style="color:black;">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#team">Team</a>
+                        <a class="page-scroll" href="#team"style="color:black;">Team</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="#contact"style="color:black;">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -79,9 +78,9 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in" style="color:#FF0000;">Bangladesh Cyberspace</div>
-                <div class="intro-heading">Counter-intelligence and counter-terrorism</div>
-                <a href="#services" class="page-scroll btn btn-xl">N3Xus</a>
+                <div class="intro-lead-in" style="color:black;">বাংলার সাইবারস্পেস রাখিব শত্রু মুক্ত </div>
+                <div class="intro-heading"style="color:black;">Counter-intelligence and counter-terrorism</div>
+                <a href="#services" class="page-scroll btn btn-xl"style="color:black;"> বাংলার সাইবারস্পেস হ্যাকার মুক্ত</a>
             </div>
         </div>
     </header>
@@ -226,7 +225,7 @@
     <section id="about" style="background-color:#006699;">>
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center" style="background-color:powderblue;">>
+                <div class="col-lg-12 text-center">>
                     <h2 class="section-heading">About</h2>
                     <h3 class="section-subheading text-muted">Best gaming site
             </div>
